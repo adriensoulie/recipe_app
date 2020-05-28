@@ -26,7 +26,7 @@ class AddRecipe extends Component {
                 <div className='card'>
                     <form onSubmit={this.handleSubmit} className='admin-form add-recipe'>
                         <input value={this.state.name} onChange={this.handleChange}
-                         name='nom' type="text" placeholder="Recipe name"/>
+                         name='name' type="text" placeholder="Recipe name"/>
                         <input  value={this.state.image} onChange={this.handleChange}
                          name='image' type="text" placeholder="Image name"/>
                         <textarea  value={this.state.ingredients} onChange={this.handleChange}

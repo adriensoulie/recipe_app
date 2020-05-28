@@ -41,6 +41,12 @@ class App extends Component {
     this.setState({ recipes })
   }
 
+  deleteRecipe =  key  => {
+    const recipes = {...this.state.recipes}
+    recipes[key] = null 
+    this.setState({ recipes })
+  }
+
 
 
   loadExemple = () => { this.setState({ recipes }) }

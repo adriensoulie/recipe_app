@@ -25,7 +25,6 @@ class Admin extends Component {
             { data: authData.user.uid }
             )
         }
-        console.log(authData)
 
         this.setState({
             uid: authData.user.uid,
@@ -69,7 +68,8 @@ class Admin extends Component {
                             key={key}
                             id={key}
                             majRecipe={majRecipe}
-                            recipes={recipes}/>)
+                            recipes={recipes}
+                            deleteRecipe={deleteRecipe}/>)
                 }
              <footer>
                 <button onClick={loadExemple}>View</button>
