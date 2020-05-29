@@ -1,3 +1,26 @@
+# My Recipe App 
+Login with Facebook, Add your own recipes, View your friends / family recipes
+
+![Image of Recipe list](https://i.imgur.com/nkkdapa.png)
+View your recipes aswell as others recipes book 
+
+![Image of Login](https://i.imgur.com/Kc9DQqt.png)
+Create your Chef page 
+
+![Image of Facebook Login](https://i.imgur.com/lIdD6L2.png)
+Login with facebook to add, remove and edit your recipes
+
+![Image of Editing Recipes](https://i.imgur.com/3OYCHfF.png)
+
+![Image of Adding Recipes](https://i.imgur.com/B3pHlbc.png)
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
