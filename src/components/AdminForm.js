@@ -6,11 +6,12 @@ const AdminForm = ({
         recipes,
         deleteRecipe
     }) => {
+
     const recipe = recipes[key]
 
-    const handleChange = ( event, key) => {
+    const handleChange = ( event, key ) => {
         const { name, value } = event.target
-        const recipe = recipe[key]
+        const recipe = recipes[key]
         recipe[name] = value 
         majRecipe(key, recipe)
     }

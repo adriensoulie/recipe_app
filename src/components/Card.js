@@ -22,10 +22,10 @@ const Card = ( {details} ) => {
     return (
         <div className='card'>
             <div className='image'>
-                <img src={requireImage( details.image )} alt={details.nom}/>
+                <img src={requireImage( details.image )} alt={details.name}/>
             </div>
             <div className='recipe'>
-                <h2>{details.nom}</h2>
+                <h2>{details.name}</h2>
                 <ul className='liste-ingredients'>
                     { ingredients }
                 </ul>
