@@ -1,6 +1,8 @@
 # My Recipe App 
 Login with Facebook, Add your own recipes, View your friends and family recipes
 
+Made using React.js and Firebase
+
 ### View your recipes aswell as others recipes book 
 ![Image of Recipe list](https://i.imgur.com/nkkdapa.png)
 
