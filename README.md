@@ -1,14 +1,15 @@
 # My Recipe App 
-Login with Facebook, Add your own recipes, View your friends / family recipes
+Login with Facebook, Add your own recipes, View your friends and family recipes
 
+###View your recipes aswell as others recipes book 
 ![Image of Recipe list](https://i.imgur.com/nkkdapa.png)
-View your recipes aswell as others recipes book 
 
+###Create your Chef page 
 ![Image of Login](https://i.imgur.com/Kc9DQqt.png)
-Create your Chef page 
 
+###Login with facebook to add, remove and edit your recipes
 ![Image of Facebook Login](https://i.imgur.com/lIdD6L2.png)
-Login with facebook to add, remove and edit your recipes
+
 
 ![Image of Editing Recipes](https://i.imgur.com/3OYCHfF.png)
 
